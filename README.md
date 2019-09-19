@@ -4,10 +4,10 @@
 Este projeto de cunho experimental tem como função cadastro de usuário, login com autenticação e refefinição de senha através de Token enviado para email do usuário.
 No front-end foi utilizado o Framework VueJs.
 
-(../login-login.png)
-(../login-registro.png)
-(../login-forgot.png)
-(../login-reset.png)
+(./login-login.png)
+(./login-registro.png)
+(./login-forgot.png)
+![](./login-reset.png)
 
 
 ## Configuração para Desenvolvimento
