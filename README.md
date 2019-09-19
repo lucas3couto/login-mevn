@@ -5,7 +5,7 @@ Este projeto de cunho experimental tem como função cadastro de usuário, login
 No front-end foi utilizado o Framework VueJs.
 
 ![](./login-login.png)
-![](./login-registro.png)
+![](./login-registrar.png)
 ![](./login-forgot.png)
 ![](./login-reset.png)
 
