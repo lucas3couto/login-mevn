@@ -1,29 +1,26 @@
-# client
+# Login, registro de usuário e redefinir senha.
+> Front-End de projeto experimental que contém: Login com autenticação, registro de usuário e recuperação de senha através de token enviado por email.
 
-## Project setup
-```
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+
+Este projeto de cunho experimental tem como função cadastro de usuário, login com autenticação e refefinição de senha através de Token enviado para email do usuário.
+No front-end foi utilizado o Framework VueJs.
+
+![](../login-login.png)
+![](../login-registro.png)
+![](../login-forgot.png)
+![](../login-reset.png)
+
+
+## Configuração para Desenvolvimento
+
+```sh
 npm install
+npm run dev
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Meta
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Lucas Couto – [@lucas3couto](https://twitter.com/lucas3couto) – lucascoutoff@gmail.com
